@@ -77,14 +77,4 @@ chmod 600 ~/.ssh/id_rsa
 
 ***
 
-## Customization
 
-Feel free to adapt the script for your CI/CD pipeline or add environment-specific configurations as needed.
-
-***
-
-## License
-
-MIT License. See `LICENSE` for more details.
-
-***
